@@ -24,7 +24,7 @@ GEM
       pdf-reader (>= 0.9.0)
       ttfunk (~> 1.0.2)
     props (1.0.0)
-    rack (1.4.1)
+    rack (1.6.13)
     rack-protection (1.2.0)
       rack
     rack-test (0.6.2)
